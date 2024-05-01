@@ -55,6 +55,21 @@ https://pyrtlsdr.readthedocs.io/en/latest/rtlsdr.html
 # FFT
 
 https://www.fftw.org/
-:    FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions.
+:   FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions.
 
+https://www.fftw.org/fftw3_doc/The-1d-Discrete-Fourier-Transform-_0028DFT_0029.html
+:   The 1d Discrete Fourier Transform (DFT).
+
+https://www.fftw.org/fftw3_doc/Complex-One_002dDimensional-DFTs.html
+:   Complex One-Dimensional DFTs.
+
+https://www.fftw.org/fftw3_doc/Complex-DFTs.html
+:   Complex DFTs.
+
+https://octave.sourceforge.io/octave/function/fft.html
+:   Compute the discrete Fourier transform of A using a Fast Fourier Transform (FFT) algorithm.
+
+# Stability after retuning of RTL-SDR
+
+https://stackoverflow.com/questions/43571978/rtl-sdr-reliably-detect-frequency-changes-discard-samples-obtained-prior
 
