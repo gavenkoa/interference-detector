@@ -73,3 +73,16 @@ https://octave.sourceforge.io/octave/function/fft.html
 
 https://stackoverflow.com/questions/43571978/rtl-sdr-reliably-detect-frequency-changes-discard-samples-obtained-prior
 
+# RTL-SDR examples
+
+https://github.com/mryndzionek/sdr_rec
+:   RTL-SDR and liquid-dsp library - examples and tests
+
+https://github.com/tejeez/rtl_coherent
+:   Synchronized RTL-SDR receivers and direction finding
+
+https://github.com/biemster/rtl_waterfall/tree/master
+:   Simple GL based waterfall window for rtl-sdr
+
+
+
